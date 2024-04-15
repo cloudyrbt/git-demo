@@ -5,4 +5,5 @@ hello,new Git player!
 hello,new Git player!
 hello,new Git player!
 hello,new Git player! master change version
+hello,new Git player! hot-fix change version
 hello,new Git player!
