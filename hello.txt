@@ -1,4 +1,4 @@
-hello,new Git player!
+hello,new Git player! hot-fix first version
 hello,new Git player!
 hello,new Git player!
 hello,new Git player!
